@@ -1,3 +1,7 @@
+// This is the main function of the package
+// github.com/mcclayac/package_example
+//
+// create by: mcclayac
 package main
 
 import (
